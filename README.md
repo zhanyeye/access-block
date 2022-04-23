@@ -2,6 +2,7 @@
 
 > A [Vite](https://vitejs.dev/) Powered `Modernized Chrome Extension Manifest V3` ([Chrome](https://developer.chrome.com/docs/extensions/mv3/getstarted/)) Starter Template.
 
+sdfdsfa
 
 | Page Type | Light Mode | Dark Mode |
 | :---: | :---: | :---: |
